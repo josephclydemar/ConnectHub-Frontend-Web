@@ -18,7 +18,30 @@
 <br>
 <br>
 <br>
+
+---
+
+#### Used Technology Stack
+1. `ASP.NET`
+2. `PostgreSQL`
+3. `MongoDB`
+4. `Redis`
+5. `ReactJS`
+
 <br>
+
+#### Used Application Layer Protocols
+1. `WebSocket`
+2. `WebRTC`
+3. `gRPC`/`tRPC`
+
+
+<br>
+<br>
+<br>
+<br>
+
+---
 
 ### React + TypeScript + Vite
 
