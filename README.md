@@ -1,8 +1,9 @@
+# ConnectHub [Frontend-Web]
+
 <img src="./assets/connecthub-logo.png" height="300"/>
 <br>
 
 
-## `ConnectHub`-Frontend-Web
 
 <br>
 
